@@ -2,7 +2,7 @@
 Járművek nyílvántartó
 2021  01 26
  
- | Jármüvek fajta | Márka |
+ | Járművek fajta | Márka |
  | -------- | ----- |
  | Motor | KTM |
  | Autó | Ferrári |
